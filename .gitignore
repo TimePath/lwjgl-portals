@@ -1,0 +1,6 @@
+*.so
+*.dll
+build/
+dist/
+nbproject/
+dump/
