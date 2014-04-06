@@ -1,6 +1,7 @@
+/nbproject/private/
+/build/
+/dist/
+manifest.mf
 *.so
 *.dll
-build/
-dist/
-nbproject/
-dump/
+/dump/
